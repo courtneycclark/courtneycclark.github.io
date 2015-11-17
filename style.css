@@ -1,62 +1,21 @@
-
 /*
-
 
 CSS: element, id, class
 
-
- 
-
-
 selector{
-
-
-    property:value;
-
-
- 
-
-
-}
+    property:value;}
 
 
 */
 
-
- 
-
-
 body{ 
-
-
     background-color: pink
-
-
 }
-
-
- 
-
-
- 
-
 
 h1{
-
-
     text-decoration:underline
-
-
 }
 
-
- 
-
-
 #header{
-
-
     text-align:center;
-
-
 }
