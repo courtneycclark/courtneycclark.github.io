@@ -1,0 +1,80 @@
+  /*
+CSS: element, id, class
+selector{
+    property:value;
+}
+*/
+html { 
+  background: url("https://cloud.githubusercontent.com/assets/15823677/11648116/854da6c8-9d3e-11e5-825a-ea58b8617209.jpg") no-repeat center center fixed; 
+  background-size: cover;
+}
+
+body {
+  
+  }
+
+#header {
+  text-align: left;
+  text-decoration: none;
+  font-variant: small-caps;  
+  color: tan;
+  
+}
+a:link {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+} 
+li {
+    float: right;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: #333333;
+    color: black;
+}
+
+
+div.transbox {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: #f2f2f2;
+   opacity: 0.5;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox h2 {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+}
+
+div.img {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}	
+
+div.img:hover {
+    border: 1px solid #777;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
