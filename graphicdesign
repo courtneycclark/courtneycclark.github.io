@@ -1,0 +1,51 @@
+​<!DOCTYPE html>
+
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title>Courtney Clark</title>
+<link rel="stylesheet" type="text/css" href="graphic.css" />  
+  
+   </head>
+<body>
+  
+  <div id="header">
+      <h1> Courtney Clark</h1>
+  </div>  
+  
+ <ul>
+     <li><a href="default.asp">Resume</a></li>
+     <li><a href="contact.asp">Contact</a></li>
+     <li><a href="about.asp">About</a></li>
+     <li><a href="contact.asp">Home</a></li>
+ </ul>
+
+  <div class="transbox">
+    <h2> Writing | Web Design | <ins>Design Graphic</ins> | View All </h2>
+  </div> 
+
+<div class="img">
+  <a target="_blank" href="https://cloud.githubusercontent.com/assets/15823677/11657956/fbea334c-9d8d-11e5-8610-8ce618e4d38a.jpg">
+    <img src="https://cloud.githubusercontent.com/assets/15823677/11657956/fbea334c-9d8d-11e5-8610-8ce618e4d38a.jpg" alt="Trolltunga Norway" width="300" height="200">
+  </a>
+  <div class="desc">Graphic Design 1</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="https://cloud.githubusercontent.com/assets/15823677/11657967/0f28363e-9d8e-11e5-9b1c-977fb17f3103.jpg">
+    <img src="https://cloud.githubusercontent.com/assets/15823677/11657967/0f28363e-9d8e-11e5-9b1c-977fb17f3103.jpg" alt="Forest" width="300" height="200">
+  </a>
+  <div class="desc">Graphic Design 2</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="https://cloud.githubusercontent.com/assets/15823677/11657976/1fd6c342-9d8e-11e5-85d5-2a1329c95680.jpg">
+    <img src="https://cloud.githubusercontent.com/assets/15823677/11657976/1fd6c342-9d8e-11e5-85d5-2a1329c95680.jpg" width="300" height="200">
+  </a>
+  <div class="desc">Graphic Design 3</div>
+</div>
+
+
+ </div>
+  </body>
+</html>
