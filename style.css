@@ -1,21 +1,67 @@
-/*
-
+    /*
 CSS: element, id, class
-
 selector{
-    property:value;}
-
-
+    property:value;
+}
 */
-
-body{ 
-    background-color: pink
+html { 
+  background: url("https://cloud.githubusercontent.com/assets/15823677/11648094/3b79673a-9d3e-11e5-8b25-d427121e071e.jpg") no-repeat center center fixed; 
+  background-size: cover;
 }
 
-h1{
-    text-decoration:underline
+body {
+  
+  }
+
+#header {
+  text-align: left;
+  text-decoration: none;
+  font-variant: small-caps;  
+}
+a:link {
+    text-decoration: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+li {
+    float: right;
 }
 
-#header{
-    text-align:center;
+a {
+    display: block;
+    padding: 8px;
+    background-color: #333333;
+    color: black;
+}
+
+#question {
+    margin-top: 120px;
+    margin-bottom: 100px;
+    margin-right: 60px;
+    margin-left: 60px;
+    font-size: 20px;
+    color: tan;
+    text-align: center;
+    text-shadow: -10px -10px 5px black;
+    
+}
+
+div.transbox {
+    margin-top: 40px;
+    margin-bottom: 50px;
+    margin-right: 80px;
+    margin-left: 80px;
+    background-color: #f2f2f2;
+   opacity: 0.5;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox h2 {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
 }
