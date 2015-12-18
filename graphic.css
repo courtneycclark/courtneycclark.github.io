@@ -4,8 +4,9 @@ selector{
     property:value;
 }
 */
-html { 
-  background: url("https://cloud.githubusercontent.com/assets/15823677/11648116/854da6c8-9d3e-11e5-825a-ea58b8617209.jpg") no-repeat center center fixed; 
+body{ 
+   background-image: url("https://cloud.githubusercontent.com/assets/15823677/11907449/f5a56a3a-a5a1-11e5-87e4-01491f1c9b3f.jpg");
+  background-repeat: no-repeat; 
   background-size: cover;
 }
 
@@ -17,11 +18,14 @@ body {
   text-align: left;
   text-decoration: none;
   font-variant: small-caps;  
-  color: tan;
+ 
+ margin-top: -50px; 
+ color: tan;
   
 }
 a:link {
     text-decoration: none;
+  
 }
 ul {
     list-style-type: none;
@@ -33,11 +37,17 @@ li {
     float: right;
 }
 
-a {
+ul a {
     display: block;
     padding: 8px;
-    background-color: #333333;
-    color: black;
+    background-color: ;
+    color: tan;
+}
+
+}
+
+#navwords a{
+    color: tan;
 }
 
 
@@ -70,8 +80,8 @@ div.img:hover {
 }
 
 div.img img {
-    width: 100%;
-    height: auto;
+    width: 175px;
+    height: 200px;
 }
 
 div.desc {
