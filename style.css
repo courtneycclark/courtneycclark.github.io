@@ -1,15 +1,4 @@
-​<!DOCTYPE html>
 
-<html>
-<head lang="en">
-  <meta charset="UTF-8">
-  <title>Courtney Clark</title>
-<link rel="stylesheet" type="text/css" href="style.css" />  
-     
-     </style>
-  </head>
-<body>
-<style>
     /*
 CSS: element, id, class
 selector{
@@ -90,28 +79,3 @@ div.transbox h2 {
   text-align: center;
 }
 
-</style>
-  
-  <div id="header">
-      <h1> Courtney Clark</h1>
-  </div>  
- <div id="navwords"> 
- <ul>
-     <li><a href="default.asp">Resume</a></li>
-     <li><a href="contact.asp">Contact</a></li>
-     <li><a href="about.asp">About</a></li>
-     <li><a href="http://courtneycclark.github.io/">Home</a></li>
-</div> 
-</ul>
-
-  <div id="question">
-  <h1> What would you like to See?</h1>
-  </div>
- 
-    <div class="transbox">
-    <h2> Writing | Web Design | <li></li><a href="http://courtneycclark.github.io/graphicdesign.html">Graphic Design</a></li> |  View All </h2>
-  </div>   
-  
-  </div>
-  </body>
-</html>
