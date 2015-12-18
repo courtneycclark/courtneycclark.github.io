@@ -7,7 +7,7 @@ selector{
 
 body{ 
    background-image: url("https://cloud.githubusercontent.com/assets/15823677/11893639/3be7fc18-a540-11e5-9a36-d138d9b80a78.jpg");
-}
+}  background-repeat: no-repeat;
 
 body {
   
